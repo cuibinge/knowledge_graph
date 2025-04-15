@@ -1,5 +1,5 @@
 # knowledge_graph
-**This project is designed to showcase the coastal wetland geological knowledge graph constructed from 13k collected relationship and attribute triples.**
+**This project is designed to showcase the coastal wetland geological knowledge graph constructed from 14k collected relationship and attribute triples.**
 ### Before running the code, establish a connection to the Neo4j database.
 ````python
  g = Graph('bolt://localhost:7687', user='your user', password='your password')
